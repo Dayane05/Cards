@@ -70,3 +70,9 @@ body {
     top: 130px;
     height: 250px;
 }
+
+@media ( max-width: 675px) {
+    .card {
+        margin-bottom: 80px;
+    }
+}
